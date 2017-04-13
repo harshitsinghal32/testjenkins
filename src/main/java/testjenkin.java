@@ -14,7 +14,8 @@ public class testjenkin
 	private static final Logger logger = Logger.getLogger(testjenkin.class);
     public static void main( String[] args )
     {
-    	logger.error("ITS ALIVE!!!!!!!");
+    	logger.error("ITS  ALIVE!!!!!!!");
+    	logger.info("ITS  ALIVE!!!!!!!");
         System.out.println("Hello World!");
     }
     
